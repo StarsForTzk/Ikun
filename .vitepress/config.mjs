@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/Ikun/"
   title: "Ikun",
   description: "如何成为一个真正的Ikun",
   head: [

@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Ikun",
   description: "如何成为一个真正的Ikun",
   head: [
-    ["link", { rel: "icon", href: "/cxk-hs.svg" }]
+    ["link", { rel: "icon", href: "https://p.cdn.oss.tzk.icu/pic/svg/cxk-hs.svg" }]
   ],
   themeConfig: {
     outlineTitle: "Ikun 目录",
